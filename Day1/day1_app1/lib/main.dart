@@ -16,7 +16,7 @@ void main() {
         body:
         Center(child: Image(
           image: AssetImage('Image/Scenery.jpeg'),)),
-        backgroundColor: Colors.white70,
+        backgroundColor: Colors.white,
       ),
     ),
   );
